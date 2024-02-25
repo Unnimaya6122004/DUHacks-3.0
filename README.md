@@ -1,4 +1,5 @@
 ## DUHacks-3.0
+![app Image](https://codeit.us/storage/IdJAOrHfR9OfRAUtTWggZJ5m8vfYArZmYDP4ukZ8.png)
 
 #1. **Medication Reminder and Adherence Tracking Application:**
    - **Purpose:** This application aims to address the issue of medication non-adherence, which is a significant problem leading to worsening health conditions and increased healthcare costs.
